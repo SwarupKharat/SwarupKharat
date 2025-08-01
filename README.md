@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [my-portfolio18111.com](my-portfolio18111.com)
+- 👨‍💻 All of my projects are available at [my-portfolio18111.com](https://swarup-portfolio-jkq3.onrender.com/)
 
 - 📫 How to reach me **swaroopkharat18@gmail.com**
 
